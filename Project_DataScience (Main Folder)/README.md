@@ -35,5 +35,6 @@ Below is the list of modules and projects I have completed or am currently worki
 ## 📫 Contact
 Feel free to reach out if you have any questions or suggestions!
 
-**Mahbub Alam** 📩 [sakibgo24@gmail.com](mailto:sakibgo24@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/mahbubl-alam)
+**Mahbubul Alam** 📩 [sakibgo24@gmail.com](mailto:sakibgo24@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/mahbubl-alam)
+
 
